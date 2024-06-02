@@ -1,0 +1,3 @@
+As a Software Engineer at Cambridge Technology (CT), I develop web applications using .NET technologies, such as C#, ASP.NET Core, Entity Framework Core, and SQL. I work with a team of talented and experienced developers, delivering high-quality and user-friendly solutions for various clients and projects. 
+
+I am also pursuing my Master of Science in Information Technology at Indiana Institute of Technology, where I am learning advanced concepts and skills in web development, data science, and artificial intelligence. I am passionate about applying my knowledge and creativity to solve real-world problems and create value for users and stakeholders. My goal is to grow technically and professionally, and to contribute to the innovation and success of the IT industry.
